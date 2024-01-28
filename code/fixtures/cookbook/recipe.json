@@ -1,0 +1,23 @@
+[
+  {
+    "model": "cookbook.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "пельмени"
+    }
+  },
+  {
+    "model": "cookbook.recipe",
+    "pk": 2,
+    "fields": {
+      "name": "картошка тушённая"
+    }
+  },
+  {
+    "model": "cookbook.recipe",
+    "pk": 3,
+    "fields": {
+      "name": "яичница"
+    }
+  }
+]

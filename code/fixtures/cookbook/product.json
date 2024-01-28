@@ -1,0 +1,50 @@
+[
+  {
+    "model": "cookbook.product",
+    "pk": 1,
+    "fields": {
+      "name": "картошка",
+      "count_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 2,
+    "fields": {
+      "name": "мясо",
+      "count_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 3,
+    "fields": {
+      "name": "вода",
+      "count_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 4,
+    "fields": {
+      "name": "соль",
+      "count_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 5,
+    "fields": {
+      "name": "яйцо куриное",
+      "count_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 6,
+    "fields": {
+      "name": "сахар",
+      "count_cooked": 0
+    }
+  }
+]

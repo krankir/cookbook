@@ -1,0 +1,92 @@
+[
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 1,
+    "fields": {
+      "recipe": 1,
+      "product": 4,
+      "weight": 15
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 2,
+    "fields": {
+      "recipe": 1,
+      "product": 3,
+      "weight": 500
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 3,
+    "fields": {
+      "recipe": 1,
+      "product": 2,
+      "weight": 300
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 4,
+    "fields": {
+      "recipe": 1,
+      "product": 5,
+      "weight": 20
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 5,
+    "fields": {
+      "recipe": 3,
+      "product": 5,
+      "weight": 100
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 6,
+    "fields": {
+      "recipe": 3,
+      "product": 4,
+      "weight": 1
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 7,
+    "fields": {
+      "recipe": 3,
+      "product": 6,
+      "weight": 1
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 8,
+    "fields": {
+      "recipe": 2,
+      "product": 1,
+      "weight": 1000
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 9,
+    "fields": {
+      "recipe": 2,
+      "product": 4,
+      "weight": 15
+    }
+  },
+  {
+    "model": "cookbook.productinrecipe",
+    "pk": 10,
+    "fields": {
+      "recipe": 2,
+      "product": 2,
+      "weight": 300
+    }
+  }
+]
